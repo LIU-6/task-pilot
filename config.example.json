@@ -1,0 +1,10 @@
+{
+  "session": "codex_task",
+  "decision_mode": "rule",
+  "max_continue": 5,
+  "idle_threshold": 10,
+  "poll_interval": 2,
+  "history_lines": 300,
+  "rule_continue_prompt": "Please continue the current task. If the goal is not finished yet, keep going and do not stop early.",
+  "dry_run": false
+}
