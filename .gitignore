@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+
+logs/
+
+*.log
+*.out
+
+config.json
+*.local.json
+.task_pilot_sessions/
